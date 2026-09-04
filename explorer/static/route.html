@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Route · Retrosynthesis Explorer</title><link rel="stylesheet" href="/static/style.css"><script defer src="/static/common.js"></script><script defer src="/static/route.js"></script></head>
+<body><header><div class="brand"><span class="mark">R</span><div>Retrosynthesis Explorer<small>LOCAL MOLECULAR DESIGN WORKSPACE</small></div></div><a id="back-to-routes" class="link-button" href="/">← Back to routes</a></header>
+<main class="route-page"><div class="route-intro"><p class="eyebrow">ROUTE DETAILS</p><h1>Explore this route</h1><p id="route-summary" class="hint">Loading route…</p></div><p id="error" class="error" role="alert" hidden></p>
+<section class="card"><div class="section-heading"><div><p class="eyebrow">03 / SELECTED ROUTE</p><h2 id="route-title">Inspect the route</h2></div><div><button id="export-image" class="link-button" disabled>Export</button></div></div><div id="tree" class="tree"><div class="empty">Structures, connections, and node IDs appear here.</div></div><p class="hint">Green borders: in selected stock · Amber borders: not in selected stock</p></section>
+<section class="card"><div class="section-heading"><div><p class="eyebrow">04 / MOLECULAR PROPERTIES</p><h2>From target to starting materials</h2></div><button id="export-properties" class="link-button" disabled>Export</button></div><p id="method-note" class="hint">Calculated with RDKit; not experimental measurements. Node IDs match the tree. Select a molecule below to inspect all descriptors.</p><div id="properties" class="empty">Select a route to inspect its molecules.</div><div id="descriptor-detail"></div></section>
+<dialog id="export-dialog" aria-labelledby="export-title">
+<form id="export-form"><div class="section-heading"><h2 id="export-title">Export</h2><button type="button" id="close-export" class="secondary" aria-label="Close export">Close</button></div>
+<label for="export-kind">Content</label><select id="export-kind"><option value="image">Structure images</option><option value="properties">Molecular properties</option></select>
+<label for="export-scope">Output</label><select id="export-scope"></select>
+<div id="node-selection"><label for="export-node">Molecule</label><select id="export-node"></select></div>
+<label for="export-format">Format</label><select id="export-format"></select>
+<p id="export-note" class="hint"></p><p id="export-error" class="error" role="alert" hidden></p><button id="export-download" type="submit">Download</button>
+</form></dialog>
+<footer>Retrosynthesis Explorer · AiZynthFinder + RDKit · Computed descriptors, not experimental measurements</footer></main></body></html>

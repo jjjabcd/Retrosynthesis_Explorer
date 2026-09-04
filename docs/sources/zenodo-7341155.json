@@ -1,0 +1,194 @@
+{
+  "source": "https://zenodo.org/api/records/7341155",
+  "files": [
+    {
+      "id": "14f98a0a-8c44-4e10-922d-26b0f0aa2c93",
+      "key": "all_loaded_routes.json.gz",
+      "size": 123662325,
+      "checksum": "md5:7a403ac400c4e875945337dc10a787bd",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/all_loaded_routes.json.gz/content"
+      }
+    },
+    {
+      "id": "70721670-4091-4d73-9626-a3423c84de10",
+      "key": "ref_routes_reaction_hashes.txt",
+      "size": 4403965,
+      "checksum": "md5:ead05b84040fd8d594b936fb4cc5501a",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/ref_routes_reaction_hashes.txt/content"
+      }
+    },
+    {
+      "id": "37275635-0a2b-46ba-b72f-1108f6da10c9",
+      "key": "targets_n1.txt",
+      "size": 459136,
+      "checksum": "md5:29425c56cd51cdb55047f9a65f088f89",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/targets_n1.txt/content"
+      }
+    },
+    {
+      "id": "9738d6b6-1081-4cc5-8742-53edd689f21b",
+      "key": "targets_n5.txt",
+      "size": 487792,
+      "checksum": "md5:9ef17bb2b615259f0a2899e300e88882",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/targets_n5.txt/content"
+      }
+    },
+    {
+      "id": "b1f5f47e-208d-40e0-8369-836a192f2b0f",
+      "key": "uspto_keras_model.hdf5",
+      "size": 274578664,
+      "checksum": "md5:b3c15fcd469e00404879ce4e04d267e8",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_keras_model.hdf5/content"
+      }
+    },
+    {
+      "id": "0e55fbd5-2b7f-40f1-a6e8-5f3596bb191e",
+      "key": "uspto_lookup.json",
+      "size": 86066275,
+      "checksum": "md5:7c4fd9cef02eec1f883c71f69493284a",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_lookup.json/content"
+      }
+    },
+    {
+      "id": "3eb91bb5-908a-4cd0-8cbd-7977a70b8440",
+      "key": "uspto_ringbreaker_keras_model.hdf5",
+      "size": 45132232,
+      "checksum": "md5:bbe3dd5cbb87746329fe4be2ccfacc5f",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_ringbreaker_keras_model.hdf5/content"
+      }
+    },
+    {
+      "id": "87921cbf-1b9c-430d-8094-940c432f22c5",
+      "key": "uspto_ringbreaker_template_library.csv",
+      "size": 41591969,
+      "checksum": "md5:025076616d9f8e1103fa5de1e514321b",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_ringbreaker_template_library.csv/content"
+      }
+    },
+    {
+      "id": "4ff9d0c9-f5e6-4d25-9467-9624f03120bc",
+      "key": "uspto_ringbreaker_unique_templates.csv.gz",
+      "size": 373753,
+      "checksum": "md5:a6d0117ee6122e2cca3b7f8efa35541d",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_ringbreaker_unique_templates.csv.gz/content"
+      }
+    },
+    {
+      "id": "16a39b55-06b3-49cd-bc5f-1f35a82b7cca",
+      "key": "uspto_template_library.csv",
+      "size": 574070435,
+      "checksum": "md5:e40c33ae2a9907d21312137ea4f1e2d8",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_template_library.csv/content"
+      }
+    },
+    {
+      "id": "eabe95e0-ebf0-40e3-bee4-83839cdf6f21",
+      "key": "uspto_unique_templates.csv.gz",
+      "size": 3313598,
+      "checksum": "md5:e8fb29d4dcd54073658000e212b7845a",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/uspto_unique_templates.csv.gz/content"
+      }
+    },
+    {
+      "id": "64b8b9e8-3fa1-4ca1-9895-931341df369f",
+      "key": "ref_routes_n1.json",
+      "size": 64187987,
+      "checksum": "md5:8f11ca81d6d184539fa4d2c5bde215af",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/ref_routes_n1.json/content"
+      }
+    },
+    {
+      "id": "ebbadd97-2296-4e33-bb15-cdbdf459ad43",
+      "key": "ref_routes_n5.json",
+      "size": 82120928,
+      "checksum": "md5:1da36cbada13175668c66546db6fd952",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/ref_routes_n5.json/content"
+      }
+    },
+    {
+      "id": "906c35e2-65f7-4363-b2bb-46059ab93c2f",
+      "key": "selected_reactions_all.csv",
+      "size": 3255344764,
+      "checksum": "md5:cbe9d69502fe3e64121ad995bf6a1e09",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/selected_reactions_all.csv/content"
+      }
+    },
+    {
+      "id": "a1954408-b55e-407a-9c2c-720598f65bce",
+      "key": "selected_reactions.csv",
+      "size": 582648364,
+      "checksum": "md5:0e77ccbfd0ff650afe09148d13cb04ee",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/selected_reactions.csv/content"
+      }
+    },
+    {
+      "id": "f1c069df-8612-4c41-bd11-11077b45b4a2",
+      "key": "stock_n1.txt",
+      "size": 368802,
+      "checksum": "md5:cfa7e97b0398c7e88e46c02ae5876edf",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/stock_n1.txt/content"
+      }
+    },
+    {
+      "id": "b888ad75-001b-42b9-a9fa-6ed4d63bacf0",
+      "key": "stock_n5.txt",
+      "size": 360970,
+      "checksum": "md5:741a804816fd0484a683b58846e142bb",
+      "links": {
+        "self": "https://zenodo.org/api/records/7341155/files/stock_n5.txt/content"
+      }
+    }
+  ],
+  "checked_at": "2026-09-04",
+  "metadata": {
+    "title": "PaRoutes 2.0 and USPTO-based models",
+    "doi": "10.5281/zenodo.7341155",
+    "publication_date": "2022-11-22",
+    "description": "<p>This contains</p>\n\n<ul>\n\t<li>PaRoutes 2.0&nbsp;reference routes and stocks.&nbsp;</li>\n\t<li>USPTO-based models derived from pipelines in rxnutils and aizynthtrain</li>\n</ul>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Samuel Genheden",
+        "affiliation": "AstraZeneca R&D",
+        "orcid": "0000-0002-7624-7363"
+      }
+    ],
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7341154"
+          }
+        }
+      ]
+    }
+  },
+  "doi": "10.5281/zenodo.7341155",
+  "id": 7341155
+}

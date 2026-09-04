@@ -1,0 +1,73 @@
+{
+  "doi": "10.6084/m9.figshare.12334577.v1",
+  "license": {
+    "value": 3,
+    "name": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  },
+  "source": "https://api.figshare.com/v2/articles/12334577/versions/1",
+  "files": [
+    {
+      "id": 23086454,
+      "name": "full_uspto_03_05_19_rollout_policy.hdf5",
+      "size": 300068076,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/23086454",
+      "supplied_md5": "73d9c31910f1deb86537e43ae21e2dd2",
+      "computed_md5": "73d9c31910f1deb86537e43ae21e2dd2",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 23086457,
+      "name": "full_uspto_03_05_19_unique_templates.hdf5",
+      "size": 44646016,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/23086457",
+      "supplied_md5": "c6b4d98af62576e7e1452e92e49aab01",
+      "computed_md5": "c6b4d98af62576e7e1452e92e49aab01",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 23086469,
+      "name": "zinc_stock_17_04_20.hdf5",
+      "size": 663232280,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/23086469",
+      "supplied_md5": "00de71724ec1d4a8463c1b0d8a5d0941",
+      "computed_md5": "00de71724ec1d4a8463c1b0d8a5d0941",
+      "mimetype": "application/x-hdf"
+    }
+  ],
+  "version": 1,
+  "title": "AiZynthFinder: a fast, robust and flexible open-source software for retrosynthetic planning",
+  "authors": [
+    {
+      "id": 8804165,
+      "full_name": "Samuel Genheden",
+      "first_name": "Samuel",
+      "last_name": "Genheden",
+      "is_active": true,
+      "url_name": "Samuel_Genheden",
+      "orcid_id": "0000-0002-7624-7363"
+    },
+    {
+      "id": 8961537,
+      "full_name": "Veronika Chadimova",
+      "first_name": "Veronika",
+      "last_name": "Chadimova",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 5633650,
+      "full_name": "Ola Engkvist",
+      "first_name": "Ola",
+      "last_name": "Engkvist",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "checked_at": "2026-09-04"
+}

@@ -1,0 +1,67 @@
+{
+  "source": "https://zenodo.org/api/records/7797465",
+  "files": [
+    {
+      "id": "da03fec5-81fc-4f7f-9ae3-ace871888ded",
+      "key": "uspto_model.onnx",
+      "size": 91518243,
+      "checksum": "md5:b466a436b6a8eceaba8c14ef5e2a88c8",
+      "links": {
+        "self": "https://zenodo.org/api/records/7797465/files/uspto_model.onnx/content"
+      }
+    },
+    {
+      "id": "ac6b3fb6-592e-461a-a607-f22c34d05b89",
+      "key": "uspto_filter_model.onnx",
+      "size": 16788859,
+      "checksum": "md5:ab0df54b62a0aeceecd68051f8dc3f2e",
+      "links": {
+        "self": "https://zenodo.org/api/records/7797465/files/uspto_filter_model.onnx/content"
+      }
+    },
+    {
+      "id": "c5bc119f-34b9-40c1-acdb-02e976846b74",
+      "key": "uspto_ringbreaker_model.onnx",
+      "size": 15036094,
+      "checksum": "md5:2aa7ee99d29a910369e723a73fc13044",
+      "links": {
+        "self": "https://zenodo.org/api/records/7797465/files/uspto_ringbreaker_model.onnx/content"
+      }
+    }
+  ],
+  "checked_at": "2026-09-04",
+  "metadata": {
+    "title": "USPTO-based ONNX models",
+    "doi": "10.5281/zenodo.7797465",
+    "publication_date": "2023-04-04",
+    "description": "<p>This contains the USPTO models converted as ONNX.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Lakshidaa Saigiridharan",
+        "affiliation": null
+      }
+    ],
+    "resource_type": {
+      "title": "Other",
+      "type": "other"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7797464"
+          }
+        }
+      ]
+    }
+  },
+  "doi": "10.5281/zenodo.7797465",
+  "id": 7797465
+}
